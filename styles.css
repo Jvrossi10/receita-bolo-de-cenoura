@@ -1,0 +1,38 @@
+footer {
+    padding: 10px;
+    background-color: #489b487e
+}   
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #ffa600ad;
+}  
+
+nav ul li {
+    display: inline;
+    margin-right: 50px;
+    padding: 5px; 
+    text-align: center;
+} 
+
+body {
+    background-color: rgb(139, 136, 136);
+} 
+
+.container {
+    display: flex;
+}
+
+.foto_pag_principal {
+    margin: 20px 15px 20px 15px;
+    
+}
+
+main{
+    background-color: #ffa600ad ;
+} 
+
+._p {
+    margin: 20px 15px 20px 15px
+}
